@@ -1,0 +1,52 @@
+.aboutMe{
+    text-align:center ;
+    color: aliceblue;
+    
+}
+
+.bio{
+    /* background: rgb(136, 182, 67); */
+    width: 560px;
+    margin:55px ;
+    /* height: 10px; */
+    overflow: hidden;
+    padding: 90px;
+    border: 2px solid rgba(19, 180, 59, 0.5);;
+    border-radius: 20%;
+    /* color: white; */
+    float:right;
+   
+
+}
+h4{
+    font-weight: bold;
+    /* border: double; */
+   
+    text-align: center;
+
+}
+img{
+    
+        /* background: rgb(136, 182, 67); */
+        width: 130px;
+        margin-top:77px ;
+        overflow: hidden;
+        padding: 90px;
+        
+        border: 2px solid rgba(19, 180, 59, 0.5);;
+        border-radius: 50%;
+        /* color: white; */
+        /* height: 200px; */
+        
+        
+    
+}
+#about{
+    /* background: black; */
+    background: rgb(20, 13, 1);
+    border-radius:10% ;
+}
+body{
+    background: black;
+    /* background: rgb(173, 120, 20); */
+}

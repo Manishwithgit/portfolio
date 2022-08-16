@@ -1,0 +1,91 @@
+
+body{
+    background:black; 
+    /* color: rgb(231, 229, 241); */
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.4em;
+}
+
+ul{
+    padding: 0;
+}
+.white{
+    color: white;
+}
+.grey{
+    color: rgba(137, 163, 88, 0.5);;
+}
+#container{
+    /* background: rgb(136, 182, 67); */
+    width: 460px;
+    margin-top:100px ;
+    overflow: hidden;
+    padding: 90px;
+    border: 2px solid rgba(19, 180, 59, 0.5);;
+    border-radius: 20%;
+    /* color: white; */
+}
+#nav{
+    height: 40px;
+    background: firebrick;
+
+}
+#nav ul{
+    padding-top:13px ;
+    padding-left: 10px;
+}
+
+
+
+h1{
+    color: rgb(241, 241, 234);
+}
+h3{
+    color: rgba(19, 180, 59, 0.5);
+    font-size: 2rem;
+    border:2px solid rgba(19, 180, 59, 0.5);;
+    width: 4rem;
+    height: 2rem;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 20%;
+    
+    
+}
+.btn{
+    background: rgba(19, 180, 59, 0.5);
+    padding: 11px;
+    border-radius: 20%;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+}
+#styleMe{
+    /* background: rgb(136, 182, 67); */
+    width: 460px;
+    /* margin:10px ; */
+    overflow: hidden;
+    padding: 68px;
+    /* border: 2px solid rgba(19, 180, 59, 0.5);; */
+    border-radius: 20%;
+    /* color: white; */
+    float: right;
+    height: 250px;
+    
+    
+    
+}
+
+.star{
+    color: rgba(19, 180, 59, 0.5);
+    /* text-align: center; */
+    font-size: 200px ;
+}
+ul{
+    color: rgba(137, 163, 88, 0.5);
+    text-align: center;
+    font-size: 60px ;
+}
+
+
+
